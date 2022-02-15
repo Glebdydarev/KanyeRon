@@ -2,7 +2,7 @@
 using System.Net.Http;
 using Newtonsoft.Json.Linq;
 
-namespace KanyeWest
+namespace KanyeRon
 {
     class Program
     {
@@ -14,7 +14,7 @@ namespace KanyeWest
 
 
 
-                //kanyeRest
+                //kanyeWest
                 var kanyeURL = "https://api.kanye.rest";
 
 
